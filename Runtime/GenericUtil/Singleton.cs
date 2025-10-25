@@ -11,7 +11,7 @@ namespace MossUnityUtils.GenericUtil
         {
             if (Instance == null)
             {
-                Instance = this;
+                Instance = this.GetComponent<T>();
             }
             else
             {

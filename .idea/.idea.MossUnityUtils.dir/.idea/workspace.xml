@@ -6,42 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d32dee-0c8d-4f52-abd9-8e100eafcb54" name="Changes" comment="Hopefully fixed all the untiy side issues.">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MossUnityUtils.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MossUnityUtils.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericUtil.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericUtil/SerializableGuid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericUtil/SerializableGuid.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericUtil/SerializableGuid.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericUtil/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericUtil/Singleton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericUtil/Singleton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericUtil/SingletonDontDestroy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericUtil/SingletonDontDestroy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenericUtil/SingletonDontDestroy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/FileDataService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/FileDataService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/FileDataService.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/IDataService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/IDataService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/IDataService.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/ISerializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/ISerializer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/ISerializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/JsonSerializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/JsonSerializer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/JsonSerializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSO.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSaveData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/Sample/SampleSaveData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSaveData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSavedClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/Sample/SampleSavedClass.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSavedClass.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample/SavedScriptableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/Sample/SavedScriptableObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/Sample/SavedScriptableObject.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/SaveLoadSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/SaveLoadSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save System/SaveLoadSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/ComplexNodeRequirement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/NodeRequirement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/ComplexTreeNode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/SampleComplexRequirement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/SampleSimpleRequirement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/SampleTreeNode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnlockableTree/TreeNode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/GenericUtil/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/GenericUtil/Singleton.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +18,9 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Runtime/GenericUtil/Singleton.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -93,7 +63,8 @@
       <workItem from="1761166951503" duration="1748000" />
       <workItem from="1761173112399" duration="2303000" />
       <workItem from="1761349597551" duration="317000" />
-      <workItem from="1761350741714" duration="103000" />
+      <workItem from="1761350741714" duration="530000" />
+      <workItem from="1761351766368" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Added package info">
       <option name="closed" value="true" />
