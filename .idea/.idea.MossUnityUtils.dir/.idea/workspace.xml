@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3d32dee-0c8d-4f52-abd9-8e100eafcb54" name="Changes" comment="Hopefully fixed all the untiy side issues.">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MossUnityUtils.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MossUnityUtils.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericUtil.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericUtil/SerializableGuid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericUtil/SerializableGuid.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericUtil/SerializableGuid.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericUtil/Singleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericUtil/Singleton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericUtil/Singleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericUtil/SingletonDontDestroy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericUtil/SingletonDontDestroy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericUtil/SingletonDontDestroy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/FileDataService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/FileDataService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/FileDataService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/IDataService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/IDataService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/IDataService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/ISerializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/ISerializer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/ISerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/JsonSerializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/JsonSerializer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/JsonSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSO.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSaveData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/Sample/SampleSaveData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSaveData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSavedClass.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/Sample/SampleSavedClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample/SampleSavedClass.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample/SavedScriptableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/Sample/SavedScriptableObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/Sample/SavedScriptableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/SaveLoadSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Save System/SaveLoadSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Save System/SaveLoadSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/ComplexNodeRequirement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/NodeRequirement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/ComplexTreeNode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/SampleComplexRequirement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/SampleSimpleRequirement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/Sample/SampleTreeNode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnlockableTree/TreeNode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34RCMicLOrhPKp5tTuIf8N642WL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Liama\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Liama\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Liama\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3d32dee-0c8d-4f52-abd9-8e100eafcb54" name="Changes" comment="" />
+      <created>1761166950399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761166950399</updated>
+      <workItem from="1761166951503" duration="1748000" />
+      <workItem from="1761173112399" duration="2303000" />
+      <workItem from="1761349597551" duration="317000" />
+      <workItem from="1761350741714" duration="103000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added package info">
+      <option name="closed" value="true" />
+      <created>1761167376101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761167376101</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added package info">
+      <option name="closed" value="true" />
+      <created>1761167477893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761167477893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated package.json">
+      <option name="closed" value="true" />
+      <created>1761167939619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761167939619</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added .meta files">
+      <option name="closed" value="true" />
+      <created>1761173132293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761173132293</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added .meta files">
+      <option name="closed" value="true" />
+      <created>1761173177050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761173177050</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added package.meta">
+      <option name="closed" value="true" />
+      <created>1761173538471</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761173538471</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added package.meta">
+      <option name="closed" value="true" />
+      <created>1761174644240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761174644240</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1761174952267</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761174952267</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1761174964181</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761174964181</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1761175163339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761175163339</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added package info" />
+    <MESSAGE value="updated package.json" />
+    <MESSAGE value="Added .meta files" />
+    <MESSAGE value="added package.meta" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Hopefully fixed all the untiy side issues." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hopefully fixed all the untiy side issues." />
+  </component>
+</project>
